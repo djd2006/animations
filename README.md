@@ -1,0 +1,2 @@
+# animations
+stick man animation
